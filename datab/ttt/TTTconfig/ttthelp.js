@@ -1,7 +1,7 @@
 const ttthelp = (prefix) => {
     return `
 「 \u{1F4AE} Tic Tac Toe \u{1F4AE} 」
-By: Resen
+By: Rodrigo Garcia
 ◪ VERSÃO BETA, PODE CONTER VÁRIOS BUG..
 
 ◪ APENAS PARA GRUPOS
@@ -20,7 +20,7 @@ By: Resen
   │     de bloqueio e vitória
   ├─ ❏ hard : 100% de chance 
   │     de bloqueio e vitória 
-  └─ ❏ impossible : Só Kuuhaku
+  └─ ❏ impossible : Só o Rodrigo
            pra vencer isso
 
 ◪ TEMPORIZADOR
