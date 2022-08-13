@@ -467,7 +467,7 @@ var priorityC = () => {
 	}
 }
 
-////FINALIZAR TTT AUTOMATICAMENTE By: Resen
+////FINALIZAR TTT AUTOMATICAMENTE By: Rodrigo Garcia
 if (tttset.tttstatus == "off" && tttset.autoEndTime == "on") {
 tttset.autoEndTime = "off"
 } else if (tttset.tttstatus == "on" && tttset.autoEndTime == "on") {
