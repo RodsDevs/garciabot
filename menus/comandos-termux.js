@@ -1,9 +1,6 @@
 const cmd_termux = (prefix) => {
 return `
-SÓ DEVO LEMBRAR QUE O TERMUX DA PLAY STORE NÃO PRESTA, ENTÃO INSTALE O 118 POR LÁ 
-
-> aleatoryapi.herokuapp.com 
-
+SÓ DEVO LEMBRAR QUE O TERMUX DA PLAY STORE NÃO PRESTA, ENTÃO INSTALE O 119 POR LÁ 
 
 Comandos Básicos do termux, nescessario para inicialização do bot:
 
@@ -87,8 +84,7 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 
 PRONTO, BOA SORTE... 
-
-
+by: Garcia Lindao
 `
 }
 
