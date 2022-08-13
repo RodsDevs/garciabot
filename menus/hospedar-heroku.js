@@ -37,13 +37,13 @@ Próximos comando :
  
 1_ COMANDO :
 
-cd /sdcard/aleatory-md 
+cd /sdcard/garciabot
 
 1.2_ COMANDO :
 
 node index
 
-ESCANEIA O QRCODE COM O TESTE BETA ATIVADO, SE FOR A VERSÃO MULTI-DEVICE, ALEATORY - MD
+ESCANEIA O QRCODE COM O TESTE BETA ATIVADO, SE FOR A VERSÃO MULTI-DEVICE, GARCIA BOT
 
 1.3_ PASSO :
 
@@ -142,7 +142,7 @@ ACESSE A PASTA DO BOT COM :
 
 _1 COMANDO :
 
-cd /sdcard/aleatory-md 
+cd /sdcard/garciabot
 
 _2 COMANDO :
 
