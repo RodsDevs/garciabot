@@ -133,7 +133,7 @@ const close = (id, text) => {
 }
 
 
-const banner2 = cfonts.render(('Canal: youtube.com/aleatoryconteudos'), {
+const banner2 = cfonts.render(('INSTAGRAM: _ROGARCIA__'), {
 font: 'console',
 align: 'center',
 gradrient: [`${cor4}`,`${cor2}`], 
@@ -141,7 +141,7 @@ colors: [`${cor3}`,`${cor1}`,`${cor5}`],
 lineHeight: 1
 });
  
-const banner3 = cfonts.render((`ALEATORY MD 2.5`), {
+const banner3 = cfonts.render((`GARCIA BOT`), {
 font: 'tiny',             
 align: 'center',           
 colors: [`${cor1}`,`${cor3}`,`${cor4}`,`${cor2}`],
