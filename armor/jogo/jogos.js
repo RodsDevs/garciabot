@@ -341,9 +341,9 @@ original: 'TANGERINA',
 embaralhada: 'RITAANGNE',
 dica: 'ALIMENTO'
 },
-]	
+{	
 original: 'LAMPADA',
-embaralhada: 'LMPAAAP',
+embaralhada: 'LMPAAD',
 dica: 'ILUMINACAO'
 },
 {
@@ -421,7 +421,7 @@ original: 'CENTARALHO',
 embaralhada: 'CNTERHOLAA',
 dica: 'OBJETO'
 }
-{
+]
 
 //======== QUIZ DE ANIMAIS =======\\
 let quizanimais = [
