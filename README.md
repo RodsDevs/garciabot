@@ -17,6 +17,7 @@ termux-setup-storage
 cd /sdcard
 
 4_ COMANDO :
+
 git clone https://github.com/rodsdevs/Garciabot.git
 
 5_ COMANDO :
